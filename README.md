@@ -7,13 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/sarthak_kash" target="blank"><img src="https://img.shields.io/twitter/follow/sarthak_kash?logo=twitter&style=for-the-badge" alt="sarthak_kash" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **MERN stack.**
 
-- 💬 Ask me about **anything,**
+- ⭐ I am continuously enhancing my proficiency in **Data structures.**
+
+- 🏫 I'm pursuing a Bachelor's degree in **Computer Science Engineering.** 
 
 - 📫 How to reach me **sarthakkashyap2621@gmail.com**
 
-- ⚡ Fun fact **I love working out**
+- 🌍 I'm based in **New delhi.**
+
+- 💬 Ask me about **anything.**
+
+- ⚡ Fun fact **I love working out.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
