@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sarthak_kash" target="blank"><img src="https://img.shields.io/twitter/follow/sarthak_kash?logo=twitter&style=for-the-badge" alt="sarthak_kash" /></a> </p>
 
-- 🌱 I’m currently learning **Backend.**
+- 🌱 I’m currently learning **MERN Stack.**
 
 - ⭐ I am continuously enhancing my proficiency in **Data structures.**
 
