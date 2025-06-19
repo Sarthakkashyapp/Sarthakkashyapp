@@ -1,7 +1,7 @@
 [![An image of @sarthakkashyapp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarthakkashyapp)](https://holopin.io/@sarthakkashyapp)
 
 <h1 align="center">Hi 👋, I'm Sarthak kashyap</h1>
-<h3 align="center">Hi there, I'm Sarthak Kashyap, a passionate Frontend Developer and a Computer Science Engineering student from India</h3>
+<h3 align="center">Hi there, I'm Sarthak Kashyap, a passionate Full Stack Developer and a Computer Science Engineering student from India</h3>
 
 <img src="https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/67441800327766fc-96/s1920x1080/fe67f6e7feaaf682aa84cd0280cbb4eed24e9dea.gif" alt="coding" align="right"  width="400" >
 
