@@ -1,23 +1,14 @@
 [![An image of @sarthakkashyapp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarthakkashyapp)](https://holopin.io/@sarthakkashyapp)
-
 <h1 align="center">Hi 👋, I'm Sarthak kashyap</h1>
 <h3 align="center">Hi there, I'm Sarthak Kashyap, a passionate Full Stack Developer and a Computer Science Engineering student from India</h3>
-
 <img src="https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/67441800327766fc-96/s1920x1080/fe67f6e7feaaf682aa84cd0280cbb4eed24e9dea.gif" alt="coding" align="right"  width="400" height="250">
 
-
-- 🌱 I’m currently learning **MERN Stack and PERN Stack.**
-
+- 🌱 I'm currently learning **MERN Stack and PERN Stack.**
 - ⭐ I am continuously enhancing my proficiency in **Data structures.**
-
 -  🏫 I'm pursuing a Bachelor's degree in **Computer Science Engineering.**
-
 - 📫 How to reach me **sarthakkashyap2621@gmail.com**
-
 - 🌍 I'm based in **New delhi.**
-
 - 💬 Ask me about **anything related to Full Stack.**
-
 - ⚡ Fun fact **I love working out**
 
 <h3 align="left">Connect with me:</h3>
@@ -36,17 +27,21 @@
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" /></a>
 </div><br>
 
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sarthakkashyapp&show_icons=true&locale=en&theme=radical&border_radius=10&rank_icon=github" 
-    alt="Sarthak's GitHub stats"
-    width="48%" 
-  />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sarthakkashyapp&theme=radical" alt="GitHub Streak" width="500px" />
-</p>
+### 📊 GitHub Stats
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Sarthakkashyapp&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sarthakkashyapp&theme=dark" /> 
+</td>
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthakkashyapp&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/Sarthakkashyap"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/Sarthakkashyap" /></a></p><br><br>
