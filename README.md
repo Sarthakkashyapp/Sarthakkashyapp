@@ -61,28 +61,18 @@
 <hr/>
 
 ### 📊 GitHub Stats
-
 <table align="center">
 <tr>
 <td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sarthakkashyapp&show_icons=true&theme=radical&hide_border=true" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=Sarthakkashyapp&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
 <br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sarthakkashyapp&theme=radical&hide_border=true" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sarthakkashyapp&theme=radical&hide_border=true" alt="GitHub Streak" />
 </td>
-
 <td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakkashyapp&layout=compact&theme=radical&hide_border=true&langs_count=10" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthakkashyapp&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
 </td>
 </tr>
 </table>
-
-
 
 <hr/>
 
