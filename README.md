@@ -34,7 +34,7 @@
 <h3 align="left">Work Experience:</h3>
 
 #### 🚀 MERN Stack Intern — Carbon-Crunch  
-📅 **Sept 2024 – Nov 2024** &nbsp; | &nbsp; 🌍 **Remote**
+📅 **Sept 2025 – Dec 2025** &nbsp; | &nbsp; 🌍 **Remote**
 
 - Developed the company’s primary web interface using **React.js, Tailwind CSS, and Material-UI (MUI)**, translating **Figma designs with 100% design fidelity** and ensuring full responsiveness across all screen sizes.
 - Implemented **global state management using React Context API**, reducing prop-drilling and improving frontend maintainability by **~20%**.
